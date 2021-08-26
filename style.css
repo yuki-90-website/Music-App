@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+    background-image: url("DJBACKGROUND.jpg");
+}
+.heading {
+    box-shadow: 5px 5px 25px gray;
+    width: 100%;
+    font-size: 20px;
+}
+#name {
+    box-shadow: 5px 5px 25px gray;
+    font-size: 20px;
+}
+canvas {
+    border: 2px dashed gray;
+    box-shadow: 5px 5px 25px gray;
+    height: 600px;
+    width: 500px;
+}
